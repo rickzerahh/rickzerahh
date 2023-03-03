@@ -6,8 +6,8 @@
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor Júnior e compartilho meu conhecimento e aprendizado no meu canal e Linkedin
-    <a href="https://www.youtube.com/channel/UCRj2dfKp1l_aNl8H04DNeWw" target="_blank">
+    Sou Desenvolvedor Júnior Ful-Stack em desenvolvimento.
+    <a
       <img
            width="10%" 
            align="center" 
