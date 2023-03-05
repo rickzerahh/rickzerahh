@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor Júnior Ful-Stack em desenvolvimento.
+    Sou Desenvolvedor Júnior Full-Stack em desenvolvimento.
     <a
       <img
            width="10%" 
@@ -18,9 +18,9 @@
     </a>  
   </p>
   
-  <p align="center">
-    Porque Deus tanto amou o mundo que deu o seu Filho Unigênito, para que todo o que nele crer não pereça, mas tenha a vida eterna.
-  </p>
+  <h6 align="center">
+    get up and do some code
+  </h6>
   
 </div>
 
@@ -41,7 +41,6 @@
   <img align="center" alt="PR" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg">
   <img align="center" alt="Phyton" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img align="center" alt="github" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div><br>
 
 <div align="center">
