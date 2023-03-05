@@ -26,7 +26,7 @@
 
 <div align="center">
   <a href="https://github.com/rickzerahh">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rickzerahh&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src=""/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickzerahh&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
