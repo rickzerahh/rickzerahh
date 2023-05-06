@@ -1,54 +1,41 @@
-# <div>
-  
-  <h1 align="center">
-    Oi, meu nome é 
-    <a href="https://www.linkedin.com/in/ricardorkzh/">Ricardo André </a>
-  </h1>
-  
-  <p align="center">
-    Sou Desenvolvedor Júnior Full-Stack em desenvolvimento.
-    <a
-      <img
-           width="10%" 
-           align="center" 
-           valign="middle" 
-           src="https://shields.io/badge/views-23k-red?logo=youtube&style=social" 
-           target="_blank" 
-      />
-    </a>  
-  </p>
-  
-  <h6 align="center">
-    get up and do some code
-  </h6>
-  
-</div>
+# Hi, I'm Ricardo 👨🏻‍💻
 
-<div align="center">
-  <a href="https://github.com/rickzerahh">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rickzerahh&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickzerahh&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
+<h4 align="center">
 
-<div align="center" valign="top"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="AE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg">
-  <img align="center" alt="PS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-  <img align="center" alt="PR" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg">
-  <img align="center" alt="Phyton" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="github" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-</div><br>
+[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/rickzerahh)](https://www.instagram.com/euricardoojr/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/rickzerahh)](https://www.linkedin.com/in/ricardorkzh/)
+[![Spotify Badge](https://img.shields.io/badge/-Spotify-3bb34b?style=for-the-badge&logo=Spotify&logoColor=161f16&link=https://github.com/rickzerahh)](https://open.spotify.com/user/21gvysqql3deq22rboilyj6qy)
+[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCRj2dfKp1l_aNl8H04DNeWw)
 
-<div align="center">
-  <a href="https://www.youtube.com/channel/UCRj2dfKp1l_aNl8H04DNeWw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/euricardoojr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ricardorkzh/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </a>
-</div>
+</h4>
+
+
+Sou um estudante de Ciência da Computação na Universidade Católica de Pernambuco, apaixonado por programação e desenvolvimento de software. Tenho um sólido conhecimento em Java, Python, JavaScript, CSS e HTML, adquirido por meio de cursos, projetos acadêmicos e autoaprendizagem. Busco constantemente aprimorar minhas habilidades e adquirir novos conhecimentos na área de desenvolvimento de software.
+
+Formação Acadêmica:
+
+- Bacharelado em Ciência da Computação - Universidade Católica de Pernambuco (2020 - Presente)
+
+Habilidades Técnicas:
+
+- Linguagens de Programação: Java, Python, JavaScript
+- Front-end: HTML, CSS, JavaScript
+- Frameworks e Bibliotecas: Java Spring, ReactJS
+- Banco de Dados: MySQL
+- Controle de Versão: Git, GitHub
+- Metodologias Ágeis: Scrum
+- Edição e Design: Adobe Photoshop, Adobe Premiere Pro
+
+Idiomas:
+
+- Português (nativo)
+- Inglês (avançado)
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rickzerahh&theme=2077) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rickzerahh&hide=Html&theme=2077) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rickzerahh&theme=2077) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rickzerahh&theme=2077) | ![](https://github-readme-streak-stats.herokuapp.com?user=rickzerahh&theme=radical&hide_border=true&date_format=n%2Fj%5B%2FY%5D) |
+| :-: | :-: |
 
 <div align="center">
 
